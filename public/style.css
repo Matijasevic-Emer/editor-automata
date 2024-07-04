@@ -42,6 +42,7 @@ body {
   display: flex;
   border-radius: 5px;
   z-index: 9;
+  cursor: pointer;
   /* background-image: url("../public/images/sombra.png");
   background-size: cover; */
 }
@@ -54,6 +55,7 @@ body {
   padding: 10px;
   display: flex;
   border-radius: 5px;
+  cursor: pointer;
   /* background-image: url("../public/images/sombra.png");
     background-size: cover; */
 }
