@@ -124,7 +124,7 @@ function createStatus(x, y, id) {
     let color = getColor(parseInt(divStatus.id.replace('div-status-', '')))
     divStatus.style.width = "36px";
     divStatus.style.height = "36px";
-    divStatus.style.backgroundImage = "url('../public/images/sombra.png')";
+    divStatus.style.backgroundImage = "url('./images/sombra.png')";
     divStatus.style.backgroundSize = "cover";
     divStatus.style.borderRadius = "50%"
     divStatus.style.position = "absolute";
